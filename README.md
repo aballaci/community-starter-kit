@@ -1,4 +1,4 @@
-# welcome bot: A Probot App
+# Welcome Bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
 
